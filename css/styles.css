@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: font-family: 'Roboto Slab', serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -15,6 +15,7 @@ body {
 
 .resume-header {
     background-color: #56701B;
+    color: white;
 }
 
 .resume-main {
