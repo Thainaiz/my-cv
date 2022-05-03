@@ -6,7 +6,11 @@
 /* Styles for the body */
 
 body {
-	font-family: 'Chantelli', serif;
+	font-family: 'chantelli_antiquaregular'; serif;
+    src: url('chantelli_antiqua-webfont.woff2') format('woff2'),
+         url('chantelli_antiqua-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 	color: #202030;
 	background-color: #f8f8fc;
 }
