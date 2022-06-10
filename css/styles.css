@@ -18,6 +18,9 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
+	font-family: 'Lato'; serif;
+    src: url('Lato') format('woff2'),
+         url('Lato') format('woff');
     background-color: #56701B;
     color: white;
 }
