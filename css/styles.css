@@ -7,7 +7,7 @@
 /* Styles for the body */
 
 body {
-	font-family: 'Raleway'; serif;
+	font-family: 'Raleway', sans-serif;
     src: url('Raleway') format('woff2'),
          url('Raleway') format('woff');
     font-weight: normal;
